@@ -1,0 +1,58 @@
+{
+  "schedules": [
+    {
+      "id": 1,
+      "weekday": "monday",
+      "start": "09:00",
+      "end": "09:40"
+    },
+    {
+      "id": 2,
+      "weekday": "monday",
+      "start": "10:00",
+      "end": "10:40"
+    },
+    {
+      "id": 3,
+      "weekday": "wednesday",
+      "start": "09:00",
+      "end": "09:40"
+    },
+    {
+      "weekday": "saturday",
+      "start": "00:00",
+      "end": "00:40",
+      "id": 5
+    },
+    {
+      "weekday": "friday",
+      "start": "00:00",
+      "end": "00:40",
+      "id": 6
+    },
+    {
+      "weekday": "thursday",
+      "start": "00:00",
+      "end": "00:40",
+      "id": 7
+    },
+    {
+      "weekday": "sunday",
+      "start": "00:00",
+      "end": "00:40",
+      "id": 8
+    },
+    {
+      "weekday": "saturday",
+      "start": "00:00",
+      "end": "00:40",
+      "id": 9
+    },
+    {
+      "weekday": "friday",
+      "start": "00:00",
+      "end": "00:40",
+      "id": 10
+    }
+  ]
+}
